@@ -7,3 +7,7 @@ https://developers.google.com/maps/documentation/ios-sdk/start
 https://www.raywenderlich.com/7363101-google-maps-ios-sdk-tutorial-getting-started
 
 https://www.raywenderlich.com/7076593-cocoapods-tutorial-for-swift-getting-started
+
+<h2> Create UIActivityIndicatorView Programmatically</h2>
+
+http://swiftdeveloperblog.com/code-examples/create-uiactivityindicatorview-programmatically/
